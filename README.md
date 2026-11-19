@@ -1,7 +1,6 @@
 # Phase I unter Abhängigkeit und mit vielen Kanälen: dieselbe Karte, andere Annahme – Streamlit-Demo
 
-<!-- Nach dem Deploy direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-anfangsparameter-abhaengig-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-anfangsparameter-abhaengig-demo.streamlit.app/)**
 
 Eine Demo-Seite der Reihe **Änderungserkennung** („Wie schnell merkt man, dass sich etwas geändert hat?“) in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Vorgänger ist `anfangsparameter-demo` (Parameter schätzen: Phase I aus **m unabhängigen Einzelwerten einer Reihe**); die Kante ist ein `fix`: diese Demo hebt zwei Annahmen davon auf, mit **derselben Karte und demselben Maß**. Gelesen werden sollte sie nach den Demos zu abhängigen Werten und zu mehreren Kanälen (jeweils bei **bekannten** Parametern), denn sie verbindet beide Linien mit der Schätzung.
 
